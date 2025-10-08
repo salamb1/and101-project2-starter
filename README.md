@@ -24,7 +24,8 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src= 'https://i.imgur.com/gNiJI74.gif' title= Video Demo' width='300' alt='Video Demo'>
+<img src= 'https://i.imgur.com/gNiJI74.gif' title= 'Video Demo' width='300' alt='Video Demo' /> 
+
 
 
 GIF created with ScreenToGif
