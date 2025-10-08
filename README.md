@@ -24,9 +24,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src= https://imgur.com/a/vKCzpGI title='Video Demo' width='100' alt='Video Demo'>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vKCzpGI"  ><a href="//imgur.com/a/vKCzpGI">Project 2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src= 'https://imgur.com/a/vKCzpGI' title= Video Demo' width='300' alt='Video Demo'>
 
 GIF created with ScreenToGif
 
